@@ -8,7 +8,7 @@
         console.log(`A variável ${numero} tem o tipo ${typeof(numero)}`);
 
         // string
-        var nome = 'diana';
+        var nome = 'Joice';
         console.log(`A variável ${nome} tem o tipo ${typeof(nome)}`);
 
         // function
@@ -26,8 +26,8 @@
 
         
         // usando var global
-        /* var nome = 'diana';
-        var nome = 'Diana';
+        /* var nome = 'Joice';
+        var nome = 'Joice';
 
         // usando var local
         function nomeDaFuncao() {
@@ -48,7 +48,7 @@
 
 
         /* // atribuição
-        var atribuicao = 'diana';
+        var atribuicao = 'Joice';
 
         // comparação
         var comparacao = "0" == 0;
